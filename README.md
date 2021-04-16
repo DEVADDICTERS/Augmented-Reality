@@ -2,9 +2,8 @@
 ---
 
 ```kotlin
-  "I'm excited about Augmented Reality because unlike Virtual Reality, which closes the world out, 
-   AR allows individuals to be present in the world but hopefully allows an improvement on what's 
-   happening presently."
+  "I'm excited about Augmented Reality because unlike Virtual Reality, which closes the world out, AR allows
+   individuals to be present in the world but hopefully allows an improvement on what's happening presently."
 
   (Tim Cook - CEO of Apple)
 ```
