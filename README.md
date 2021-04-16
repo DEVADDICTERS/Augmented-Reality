@@ -2,8 +2,8 @@
 ---
 
 ```kotlin
-  "I'm excited about Augmented Reality because unlike Virtual Reality, which closes the world out, AR allows 
-   individuals to be present in the world but hopefully allows an improvement on what's 
+  "I'm excited about Augmented Reality because unlike Virtual Reality, which closes the world out, 
+   AR allows individuals to be present in the world but hopefully allows an improvement on what's 
    happening presently."
 
   (Tim Cook - CEO of Apple)
@@ -62,6 +62,6 @@
  
  | Check your area | Enable AR Mode | Find the Pokémon | Throw the Poké ball |
  | :-------------: | :-------------------------------: | :-----------------: | :-------------------------------: |
- |<img src="https://d2duuy9yo5pldo.cloudfront.net/niantic/732eb797-4e78-41e0-ab4c-4598745e542e.png" width="270" height="200"/>|<img src="https://d2duuy9yo5pldo.cloudfront.net/niantic/5db24790-9919-4501-86d6-bb3b090c02d3.png" width="270" height="200"/> |<img src="https://d2duuy9yo5pldo.cloudfront.net/niantic/6e9924d3-59f0-447f-a3d7-c61401324429.jpg" width="270" height="200"/> |<img src="https://d2duuy9yo5pldo.cloudfront.net/niantic/cd164a0c-c5c1-4cd0-9efb-c68ccebb5c04.png" width="270" height="200"/> |
+ |<img src="https://d2duuy9yo5pldo.cloudfront.net/niantic/732eb797-4e78-41e0-ab4c-4598745e542e.png" width="300" height="200"/>|<img src="https://d2duuy9yo5pldo.cloudfront.net/niantic/5db24790-9919-4501-86d6-bb3b090c02d3.png" width="300" height="200"/> |<img src="https://d2duuy9yo5pldo.cloudfront.net/niantic/6e9924d3-59f0-447f-a3d7-c61401324429.jpg" width="300" height="200"/> |<img src="https://d2duuy9yo5pldo.cloudfront.net/niantic/cd164a0c-c5c1-4cd0-9efb-c68ccebb5c04.png" width="300" height="200"/> |
  
  <br />
