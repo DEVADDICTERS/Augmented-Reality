@@ -24,7 +24,7 @@
 * ## Magazine
 ---
 
-<img src="https://files.slack.com/files-pri/TCVA3PF24-F01UDQH6NP8/devaddicters_cover_2_.png" alt="DEVADDICTERS AR" />
+<img src="./images/DEVADDICTERS COVER.png" alt="DEVADDICTERS AR" />
 
 <br />
 
