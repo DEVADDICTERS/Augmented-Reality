@@ -53,7 +53,7 @@
 | __USPS__ | __IKEA__ |
 | :--------: | :-------: |
 |`Movie promotions` | `Furniture at Home` |
-| <a href="https://youtu.be/1fT7z892HDM" target="_blank"><img src="http://img.youtube.com/vi/1fT7z892HDM/0.jpg" alt="USPS AR" max-width="540" max-height="360" border="10" /> | <a href="https://youtu.be/vDNzTasuYEw" target="_blank"><img src="http://img.youtube.com/vi/vDNzTasuYEw/0.jpg" alt="IKEA AR" max-width="540" max-height="360" border="10" /> |
+|<a href="https://youtu.be/1fT7z892HDM" target="_blank"><img src="http://img.youtube.com/vi/1fT7z892HDM/0.jpg" alt="USPS AR" max-width="540" max-height="360" border="10" /> |<a href="https://youtu.be/vDNzTasuYEw" target="_blank"><img src="http://img.youtube.com/vi/vDNzTasuYEw/0.jpg" alt="IKEA AR" max-width="540" max-height="360" border="10" /> |
  
  | __POKEMON GO__ |
  | :------------: |
