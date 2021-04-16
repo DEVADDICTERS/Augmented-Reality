@@ -2,20 +2,20 @@
 ---
 
 ```kotlin
-  "I'm excited about Augmented Reality because unlike Virtual Reality, which closes the world out, AR allows
-   individuals to be present in the world but hopefully allows an improvement on what's happening presently."
+ "I'm excited about Augmented Reality because unlike Virtual Reality, which closes the world out, AR allows
+  individuals to be present in the world but hopefully allows an improvement on what's happening presently."
 
   (Tim Cook - CEO of Apple)
 ```
 
 ```python
-  "I believe that augmented reality will be the biggest technological revolution that happens in our lifetimes."
+ "I believe that augmented reality will be the biggest technological revolution that happens in our lifetimes."
 
   (Tim Sweeney - CEO of Epic Games)
 ```
 
 ```scala
-  "There's a one in billions chance we're in base reality"
+ "There's a one in billions chance we're in base reality"
 
   (Elon Musk - CEO of Tesla)
 ```
