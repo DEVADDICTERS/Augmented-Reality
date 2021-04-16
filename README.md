@@ -1,7 +1,7 @@
-# **Augmented-Reality**
+# **Augmented Reality**
 * Magazine
 
-![DevAddicters](https://pursuit-core.slack.com/files/U01F8BW7RCK/F01V1DR1Y00/devaddicters_cover_first_attempt_.png)
+<img src="./images/DEVADDICTERS COVER.png" alt="DEVADDICTERS AR" />
 
 <br />
 
@@ -27,3 +27,7 @@
  ><a href="https://youtu.be/vDNzTasuYEw" target="_blank"><img src="http://img.youtube.com/vi/vDNzTasuYEw/0.jpg" alt="IKEA AR" width="240" height="180" border="10" />
 * ### POKEMON GO
  `Hunt Pokémon`
+ 
+ | Check your area | Enable AR Mode | Find the Pokémon | Throw the Poké ball |
+ | ---------------- | :-------------------------------: | :---------------- | :-------------------------------: |
+ |<img src="https://d2duuy9yo5pldo.cloudfront.net/niantic/732eb797-4e78-41e0-ab4c-4598745e542e.png" width="380" height="220"/>|<img src="https://d2duuy9yo5pldo.cloudfront.net/niantic/5db24790-9919-4501-86d6-bb3b090c02d3.png" width="380" height="220"/> |<img src="https://d2duuy9yo5pldo.cloudfront.net/niantic/6e9924d3-59f0-447f-a3d7-c61401324429.jpg" width="380" height="220"/> |<img src="https://d2duuy9yo5pldo.cloudfront.net/niantic/cd164a0c-c5c1-4cd0-9efb-c68ccebb5c04.png" width="380" height="220"/>
