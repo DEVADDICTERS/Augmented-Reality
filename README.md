@@ -45,14 +45,16 @@
 
 ## Companies already using AR 
 
+<br />
+
 | __USPS__ | __IKEA__ |
 | :--------: | :-------: |
 |`Movie promotions` | `Furniture at Home` |
 | <a href="https://youtu.be/1fT7z892HDM" target="_blank"><img src="http://img.youtube.com/vi/1fT7z892HDM/0.jpg" alt="USPS AR" width="540" height="360" border="10" /> | <a href="https://youtu.be/vDNzTasuYEw" target="_blank"><img src="http://img.youtube.com/vi/vDNzTasuYEw/0.jpg" alt="IKEA AR" width="540" height="360" border="10" /> |
  
-* ### POKEMON GO
- `Hunt Pokémon`
- 
+ | __POKEMON GO__ |
+ | :------------: |
+ | `Hunt Pokémon` |
  
  | Check your area | Enable AR Mode | Find the Pokémon | Throw the Poké ball |
  | :-------------: | :-------------------------------: | :-----------------: | :-------------------------------: |
