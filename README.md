@@ -1,4 +1,5 @@
 # **Augmented Reality**
+---
 
 ```kotlin
   "I'm excited about Augmented Reality because unlike Virtual Reality, which closes the world out, AR allows 
@@ -22,12 +23,14 @@
 
 
 * ## Magazine
+---
 
 <img src="./images/DEVADDICTERS COVER.png" alt="DEVADDICTERS AR" />
 
 <br />
 
 ### Augmented  vs  Virtual Reality
+---
 
 >While virtual reality (VR) aims to create an entirely immersive experience, augmented reality (AR) takes a slightly more modest approach by layering digitally created elements over the real world.
  * This can be accomplished by :
@@ -44,6 +47,7 @@
 <br />
 
 ## Companies already using AR 
+---
 
 <br />
 
