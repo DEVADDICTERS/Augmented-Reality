@@ -64,3 +64,7 @@
  |<img src="https://d2duuy9yo5pldo.cloudfront.net/niantic/732eb797-4e78-41e0-ab4c-4598745e542e.png" width="300" height="200"/>|<img src="https://d2duuy9yo5pldo.cloudfront.net/niantic/5db24790-9919-4501-86d6-bb3b090c02d3.png" width="300" height="200"/> |<img src="https://d2duuy9yo5pldo.cloudfront.net/niantic/6e9924d3-59f0-447f-a3d7-c61401324429.jpg" width="300" height="200"/> |<img src="https://d2duuy9yo5pldo.cloudfront.net/niantic/cd164a0c-c5c1-4cd0-9efb-c68ccebb5c04.png" width="300" height="200"/> |
  
  <br />
+
+  ##### ***made*** by &ensp;<sub>`Dev-Addicters`</sub>
+ ###### <img src="https://api.iconify.design/logos:trello.svg" width="16px" height="16px" />&ensp;[Trello](https://trello.com/b/kfWc0seb/71-squad-1-board)&ensp;&ensp;<img src="https://api.iconify.design/logos:youtube-icon.svg" width="16px" />&ensp;Youtube&ensp;&ensp;<img src="https://api.iconify.design/simple-icons:adobeindesign.svg" width="16px"/>&ensp;InDesign
+
