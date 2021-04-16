@@ -33,10 +33,10 @@
 ---
 
 >While virtual reality (VR) aims to create an entirely immersive experience, augmented reality (AR) takes a slightly more modest approach by layering digitally created elements over the real world.
- * This can be accomplished by :
- 1. Through the use of special wearable devices, like glasses or headsets, that project a digital image onto the lens.
- 2. Inserting those same elements into a camera image, like a smartphone screen.
-
+> * This can be accomplished by :
+> 1. Through the use of special wearable devices, like glasses or headsets, that project a digital image onto the lens.
+> 2. Inserting those same elements into a camera image, like a smartphone screen.
+---
 <br />
 
 | Augmented Reality | Virtual Reality |
