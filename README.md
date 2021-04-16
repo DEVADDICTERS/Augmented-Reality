@@ -41,7 +41,7 @@
 
 | Augmented Reality | Virtual Reality |
 | :----------------------------------------------------: | :--------------------------------------: | 
-| ***Filter how people perceive the world around them*** | ***Generates massive ammounts of data*** |
+| ***Filter how people perceive the world around them*** | ***Generates massive ammounts of data and blocks out the real world*** |
 | ***Can interact with the real world, while viewing digital elements*** | ***-*** |
 
 <br />
