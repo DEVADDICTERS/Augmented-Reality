@@ -21,7 +21,7 @@
 ```
 
 
-* Magazine
+* ## Magazine
 
 <img src="./images/DEVADDICTERS COVER.png" alt="DEVADDICTERS AR" />
 
