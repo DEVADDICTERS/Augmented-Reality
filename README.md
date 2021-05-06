@@ -21,7 +21,7 @@
 ```
 
 
-* ## Magazine
+* ## [Magazine](https://www.flipsnack.com/DEVADDICTERS/devaddicters.html)
 ---
 
 <img src="./images/DEVADDICTERS COVER(2).png" alt="DEVADDICTERS AR" />
