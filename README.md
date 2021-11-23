@@ -3,7 +3,7 @@ This project was dedicated to highlighting a specific topic(s) in the tech indus
 As a group we chose augmented reality and it facetes as well as speaking about impoter syndrome.
 The Magazine was designed with Adobe inDesign, and Photoshop. Then it was uploaded and hosted on flipsnack.com.
 The members of the team all contributed an article and did research. Please enjoy our project.
-*  - We do not own rights to the pictures used - *
+*  - We do not own rights to the pictures used 
 
 
 
